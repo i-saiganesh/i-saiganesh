@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hey, I'm Sai Ganesh S 👋
+# Hey, I'm Sai Ganesh👋
 
 **`AI Systems Engineer • Algorithms • Full-Stack`**
 
