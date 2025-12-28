@@ -8,7 +8,7 @@
 
 ---
 
-### 🧠 About Me
+### 🧠 About Me 
 
 ```yaml
 🧠 Computer Science @ SRM University (2024–2028)
