@@ -168,12 +168,6 @@ A browser-based operating system simulation
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-saiganesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5094F0&text_color=FFFFFF" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=i-saiganesh&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=5094F0&line=5094F0&point=FFFFFF" alt="Activity Graph" />
 
 </div>
